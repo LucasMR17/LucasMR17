@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_martins_r/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins-13201078/)
-[![Google Docs](https://img.shields.io/badge/Currículo-00599C?style=for-the-badge&logo=&logoColor=white)](https://docs.google.com/document/d/1rA4fsZ-766jIu94MCmY18SqzNttW2wML/edit/)
+[![Google Docs](https://img.shields.io/badge/Currículo-00599C?style=for-the-badge&logo=&logoColor=white)](https://docs.google.com/document/d/1rA4fsZ-766jIu94MCmY18SqzNttW2wML/edit?usp=sharing&ouid=116578805796813687789&rtpof=true&sd=true)
 
 ![Lucas Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMR17&show_icons=true&theme=tokyonight)
 
