@@ -16,6 +16,8 @@
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="Microsoft Visual Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    <img align="center" alt="Zabbix" src="https://img.shields.io/badge/Zabbix-E50914?style=for-the-badge&logo=zabbix&logoColor=white" />
+    <img align="center" alt="Grafana" src="https://img.shields.io/badge/Grafana-FF4500?style=for-the-badge&logo=grafana&logoColor=white" />
 </div><br/>
 
 "Without data you are any person with an opinion" By: William Edwards Deming
