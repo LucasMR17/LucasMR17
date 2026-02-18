@@ -23,12 +23,6 @@ Experiência sólida em troubleshooting de alta complexidade, automação de rot
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Lucas Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMR17&show_icons=true&theme=tokyonight)
-
----
-
 ## 🛠 Stack Técnica
 
 <div style="display: inline_block"><br/>
